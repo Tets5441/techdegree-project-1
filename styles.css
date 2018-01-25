@@ -55,6 +55,8 @@ a:hover {
   color: white
 }
 
+/* Headers with varying page styles */
+
 header {
   text-align: center;
   background: url('images/chris-barbalis-123802.jpg') no-repeat top center ;
@@ -62,6 +64,23 @@ header {
   overflow: hidden;
   padding-top: 60px;
 }
+
+#experience {
+  text-align: center;
+  background: url('images/neonbrand-432965.jpg') no-repeat top center ;
+  background-size: cover;
+  overflow: hidden;
+  padding-top: 60px;
+}
+
+#gallery {
+  text-align: center;
+  background: url(images/jonatan-pie-198162.jpg) no-repeat top center ;
+  background-size: cover;
+  overflow: hidden;
+  padding-top: 60px;
+}
+
 header {
   line-height: 1.5;
 }
