@@ -63,6 +63,8 @@ header {
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
+  border: solid grey 5px;
+  border-radius: 20px;
 }
 
 #experience {
@@ -71,14 +73,18 @@ header {
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
+  border: solid pink 5px;
+  border-radius: 20px;
 }
 
-#gallery {
+#contact {
   text-align: center;
   background: url(images/jonatan-pie-198162.jpg) no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
+  border: solid green 5px;
+  border-radius: 20px;
 }
 
 header {
