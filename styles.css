@@ -64,7 +64,6 @@ header {
   overflow: hidden;
   padding-top: 60px;
   border: solid grey 5px;
-  border-radius: 20px;
 }
 
 #experience {
@@ -74,7 +73,6 @@ header {
   overflow: hidden;
   padding-top: 60px;
   border: solid pink 5px;
-  border-radius: 20px;
 }
 
 #contact {
@@ -84,7 +82,6 @@ header {
   overflow: hidden;
   padding-top: 60px;
   border: solid green 5px;
-  border-radius: 20px;
 }
 
 header {
@@ -95,7 +92,7 @@ header .profile-image {
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  border: 3px solid white;
+  border: 3px dotted white;
   transition: all .5s;
 }
 header .profile-image:hover {
@@ -124,7 +121,7 @@ header .profile-image:hover {
   transition: all .5s;
 }
 .card:hover {
-  border-color: #ff99ff;
+  border-color: #0399ff;
 }
 
 #dog {
