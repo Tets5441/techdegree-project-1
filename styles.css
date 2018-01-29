@@ -57,7 +57,7 @@ a:hover {
 
 /* Headers with varying page styles */
 
-header {
+header, .home {
   text-align: center;
   background: url('images/chris-barbalis-123802.jpg') no-repeat top center ;
   background-size: cover;
@@ -66,7 +66,7 @@ header {
   border: solid grey 5px;
 }
 
-#experience {
+header, .experience {
   text-align: center;
   background: url('images/neonbrand-432965.jpg') no-repeat top center ;
   background-size: cover;
@@ -75,7 +75,7 @@ header {
   border: solid pink 5px;
 }
 
-#contact {
+header, .contact {
   text-align: center;
   background: url(images/jonatan-pie-198162.jpg) no-repeat top center ;
   background-size: cover;
